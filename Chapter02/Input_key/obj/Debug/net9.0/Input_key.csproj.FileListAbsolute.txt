@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\bin\Debug\net9.0\Input_key.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\bin\Debug\net9.0\Input_key.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\bin\Debug\net9.0\Input_key.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\bin\Debug\net9.0\Input_key.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\bin\Debug\net9.0\Input_key.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\refint\Input_key.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\Input_key.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_key\obj\Debug\net9.0\ref\Input_key.dll

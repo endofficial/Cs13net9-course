@@ -1,0 +1,15 @@
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\bin\Debug\net9.0\WrokingWithCollections.exe
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\bin\Debug\net9.0\WrokingWithCollections.deps.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\bin\Debug\net9.0\WrokingWithCollections.runtimeconfig.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\bin\Debug\net9.0\WrokingWithCollections.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\bin\Debug\net9.0\WrokingWithCollections.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.AssemblyInfoInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.AssemblyInfo.cs
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.csproj.CoreCompileInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\refint\WrokingWithCollections.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.genruntimeconfig.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\ref\WrokingWithCollections.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WrokingWithCollections\obj\Debug\net9.0\WrokingWithCollections.sourcelink.json

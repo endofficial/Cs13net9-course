@@ -1,0 +1,15 @@
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\bin\Debug\net9.0\WorkingWithNetworkResources.exe
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\bin\Debug\net9.0\WorkingWithNetworkResources.deps.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\bin\Debug\net9.0\WorkingWithNetworkResources.runtimeconfig.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\bin\Debug\net9.0\WorkingWithNetworkResources.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\bin\Debug\net9.0\WorkingWithNetworkResources.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.AssemblyInfo.cs
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.sourcelink.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\refint\WorkingWithNetworkResources.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\WorkingWithNetworkResources.genruntimeconfig.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNetworkResources\obj\Debug\net9.0\ref\WorkingWithNetworkResources.dll

@@ -1,0 +1,11 @@
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb

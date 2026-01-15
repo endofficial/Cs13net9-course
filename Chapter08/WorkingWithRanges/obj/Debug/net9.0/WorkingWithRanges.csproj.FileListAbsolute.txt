@@ -1,0 +1,14 @@
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.exe
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.deps.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.runtimeconfig.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.AssemblyInfoInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.AssemblyInfo.cs
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\refint\WorkingWithRanges.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.genruntimeconfig.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRanges\obj\Debug\net9.0\ref\WorkingWithRanges.dll

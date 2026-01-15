@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "elrjwwcG1Y8=",
+  "success": true,
+  "projectFilePath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\packt.csdotnet.sharedlibrary\\9.0.0\\packt.csdotnet.sharedlibrary.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

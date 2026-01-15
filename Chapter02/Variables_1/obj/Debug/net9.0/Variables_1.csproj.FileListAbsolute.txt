@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\bin\Debug\net9.0\Variables_1.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\bin\Debug\net9.0\Variables_1.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\bin\Debug\net9.0\Variables_1.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\bin\Debug\net9.0\Variables_1.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\bin\Debug\net9.0\Variables_1.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\refint\Variables_1.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\Variables_1.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Variables_1\obj\Debug\net9.0\ref\Variables_1.dll

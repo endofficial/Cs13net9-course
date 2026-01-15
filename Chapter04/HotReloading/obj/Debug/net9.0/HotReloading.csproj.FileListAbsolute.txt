@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\bin\Debug\net9.0\HotReloading.exe
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\bin\Debug\net9.0\HotReloading.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\bin\Debug\net9.0\HotReloading.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\bin\Debug\net9.0\HotReloading.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\bin\Debug\net9.0\HotReloading.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\refint\HotReloading.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\HotReloading.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\HotReloading\obj\Debug\net9.0\ref\HotReloading.dll

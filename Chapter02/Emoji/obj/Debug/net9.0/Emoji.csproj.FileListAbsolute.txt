@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Emoji\bin\Debug\net9.0\Emoji.exe
+D:\Programmazione\C#\Esercitazioni\Emoji\bin\Debug\net9.0\Emoji.deps.json
+D:\Programmazione\C#\Esercitazioni\Emoji\bin\Debug\net9.0\Emoji.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Emoji\bin\Debug\net9.0\Emoji.dll
+D:\Programmazione\C#\Esercitazioni\Emoji\bin\Debug\net9.0\Emoji.pdb
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.dll
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\refint\Emoji.dll
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.pdb
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\Emoji.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Emoji\obj\Debug\net9.0\ref\Emoji.dll

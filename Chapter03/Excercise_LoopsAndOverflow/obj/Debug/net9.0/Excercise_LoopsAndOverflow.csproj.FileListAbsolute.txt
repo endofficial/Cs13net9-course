@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\bin\Debug\net9.0\Excercise_LoopsAndOverflow.exe
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\bin\Debug\net9.0\Excercise_LoopsAndOverflow.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\bin\Debug\net9.0\Excercise_LoopsAndOverflow.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\bin\Debug\net9.0\Excercise_LoopsAndOverflow.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\bin\Debug\net9.0\Excercise_LoopsAndOverflow.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\refint\Excercise_LoopsAndOverflow.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\Excercise_LoopsAndOverflow.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_LoopsAndOverflow\obj\Debug\net9.0\ref\Excercise_LoopsAndOverflow.dll

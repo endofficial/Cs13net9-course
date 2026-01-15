@@ -1,0 +1,11 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\bin\Debug\net9.0\CalculatorLib.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\bin\Debug\net9.0\CalculatorLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\bin\Debug\net9.0\CalculatorLib.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\CalculatorLib.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\CalculatorLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\refint\CalculatorLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\CalculatorLib.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\CalculatorLib\obj\Debug\net9.0\ref\CalculatorLib.dll

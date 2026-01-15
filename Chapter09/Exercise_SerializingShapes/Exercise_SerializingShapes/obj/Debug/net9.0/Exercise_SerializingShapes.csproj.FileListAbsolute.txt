@@ -1,0 +1,15 @@
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\bin\Debug\net9.0\Exercise_SerializingShapes.exe
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\bin\Debug\net9.0\Exercise_SerializingShapes.deps.json
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\bin\Debug\net9.0\Exercise_SerializingShapes.runtimeconfig.json
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\bin\Debug\net9.0\Exercise_SerializingShapes.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\bin\Debug\net9.0\Exercise_SerializingShapes.pdb
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.AssemblyInfoInputs.cache
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.AssemblyInfo.cs
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.csproj.CoreCompileInputs.cache
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\refint\Exercise_SerializingShapes.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.pdb
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.genruntimeconfig.cache
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\ref\Exercise_SerializingShapes.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\Exercise_SerializingShapes\Exercise_SerializingShapes\obj\Debug\net9.0\Exercise_SerializingShapes.sourcelink.json

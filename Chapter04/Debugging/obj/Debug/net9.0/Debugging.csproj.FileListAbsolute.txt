@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\bin\Debug\net9.0\Debugging.exe
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\bin\Debug\net9.0\Debugging.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\bin\Debug\net9.0\Debugging.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\bin\Debug\net9.0\Debugging.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\bin\Debug\net9.0\Debugging.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\refint\Debugging.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\Debugging.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Debugging\obj\Debug\net9.0\ref\Debugging.dll

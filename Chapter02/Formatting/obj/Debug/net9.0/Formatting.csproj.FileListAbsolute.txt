@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\bin\Debug\net9.0\Formatting.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\bin\Debug\net9.0\Formatting.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\bin\Debug\net9.0\Formatting.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\bin\Debug\net9.0\Formatting.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\bin\Debug\net9.0\Formatting.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\refint\Formatting.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\Formatting.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Formatting\obj\Debug\net9.0\ref\Formatting.dll

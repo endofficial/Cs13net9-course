@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\bin\Debug\net9.0\TopLevelFunctions.exe
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\bin\Debug\net9.0\TopLevelFunctions.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\bin\Debug\net9.0\TopLevelFunctions.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\bin\Debug\net9.0\TopLevelFunctions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\bin\Debug\net9.0\TopLevelFunctions.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\refint\TopLevelFunctions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\TopLevelFunctions.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\TopLevelFunctions\obj\Debug\net9.0\ref\TopLevelFunctions.dll

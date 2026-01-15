@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter03\\Ch03Ex03Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB544E3-2565-4CF4-8FCC-6EC7A49484E8}|Ch03Ex03Operators.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter03\\ch03ex03operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB544E3-2565-4CF4-8FCC-6EC7A49484E8}|Ch03Ex03Operators.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB544E3-2565-4CF4-8FCC-6EC7A49484E8}|Ch03Ex03Operators.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter03\\ch03ex03operators\\ch03ex03operators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DB544E3-2565-4CF4-8FCC-6EC7A49484E8}|Ch03Ex03Operators.csproj|solutionrelative:ch03ex03operators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ch03Ex03Operators",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter03\\Ch03Ex03Operators\\Ch03Ex03Operators.csproj",
+              "RelativeDocumentMoniker": "Ch03Ex03Operators.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter03\\Ch03Ex03Operators\\Ch03Ex03Operators.csproj",
+              "RelativeToolTip": "Ch03Ex03Operators.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T08:47:00.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter03\\Ch03Ex03Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter03\\Ch03Ex03Operators\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:22:34.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

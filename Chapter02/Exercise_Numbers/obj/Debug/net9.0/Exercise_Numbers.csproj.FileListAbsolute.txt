@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\bin\Debug\net9.0\Exercise_Numbers.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\bin\Debug\net9.0\Exercise_Numbers.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\bin\Debug\net9.0\Exercise_Numbers.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\bin\Debug\net9.0\Exercise_Numbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\bin\Debug\net9.0\Exercise_Numbers.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\refint\Exercise_Numbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\Exercise_Numbers.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Exercise_Numbers\obj\Debug\net9.0\ref\Exercise_Numbers.dll

@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76AC40D9-9CE2-4EA2-8804-E95A2CB44A08}|..\\Exercise_PrimeFactorsTests\\Exercise_PrimeFactorsTests.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\exercise_primefactorstests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B10996-68FC-4AAA-9ADF-96E0AAD0EFD5}|..\\Exercise_PrimeFactorsApp\\Exercise_PrimeFactorsApp.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\exercise_primefactorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC7B140-1515-442E-BE59-3259BE73CBC0}|Exercise_PrimeFactorsLib.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\exercise_primefactorslib\\primefactorslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC7B140-1515-442E-BE59-3259BE73CBC0}|Exercise_PrimeFactorsLib.csproj|solutionrelative:primefactorslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B10996-68FC-4AAA-9ADF-96E0AAD0EFD5}|..\\Exercise_PrimeFactorsApp\\Exercise_PrimeFactorsApp.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\exercise_primefactorsapp\\exercise_primefactorsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsTests\\Tests.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_PrimeFactorsTests\\Tests.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsTests\\Tests.cs",
+              "RelativeToolTip": "..\\Exercise_PrimeFactorsTests\\Tests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vzMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:20:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise_PrimeFactorsApp.csproj",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsApp\\Exercise_PrimeFactorsApp.csproj",
+              "RelativeDocumentMoniker": "..\\Exercise_PrimeFactorsApp\\Exercise_PrimeFactorsApp.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsApp\\Exercise_PrimeFactorsApp.csproj",
+              "RelativeToolTip": "..\\Exercise_PrimeFactorsApp\\Exercise_PrimeFactorsApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T18:07:45.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_PrimeFactorsApp\\Program.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsApp\\Program.cs",
+              "RelativeToolTip": "..\\Exercise_PrimeFactorsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:07:29.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeFactorsLib.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsLib\\PrimeFactorsLib.cs",
+              "RelativeDocumentMoniker": "PrimeFactorsLib.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\Exercise_PrimeFactorsLib\\PrimeFactorsLib.cs",
+              "RelativeToolTip": "PrimeFactorsLib.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T17:31:42.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\bin\Debug\net9.0\Excercise_Inheritance.exe
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\bin\Debug\net9.0\Excercise_Inheritance.deps.json
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\bin\Debug\net9.0\Excercise_Inheritance.runtimeconfig.json
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\bin\Debug\net9.0\Excercise_Inheritance.dll
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\bin\Debug\net9.0\Excercise_Inheritance.pdb
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.AssemblyInfo.cs
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.dll
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\refint\Excercise_Inheritance.dll
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.pdb
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\Excercise_Inheritance.genruntimeconfig.cache
+C:\Users\andre\Downloads\Excercise_Inheritance-main\Excercise_Inheritance-main\obj\Debug\net9.0\ref\Excercise_Inheritance.dll

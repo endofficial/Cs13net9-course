@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\flightpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:flightpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60657822-E023-4497-9A98-869AEF244D1D}|..\\PeopleApp\\PeopleApp.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60657822-E023-4497-9A98-869AEF244D1D}|..\\PeopleApp\\PeopleApp.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\peopleapp\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60657822-E023-4497-9A98-869AEF244D1D}|..\\PeopleApp\\PeopleApp.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\peopleapp\\usa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60657822-E023-4497-9A98-869AEF244D1D}|..\\PeopleApp\\PeopleApp.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\peopleapp\\france.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAF32E-FD0E-40B4-A1E6-14480BF023AB}|..\\PacktLibraryModern\\PacktLibraryModern.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarymodern\\headset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60657822-E023-4497-9A98-869AEF244D1D}|..\\PeopleApp\\PeopleApp.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\packtlibrarynet2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:packtlibrarynet2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\equality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:equality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAF32E-FD0E-40B4-A1E6-14480BF023AB}|..\\PacktLibraryModern\\PacktLibraryModern.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarymodern\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\obj\\debug\\netstandard2.0\\packtlibrarynet2.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:obj\\debug\\netstandard2.0\\packtlibrarynet2.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter05\\packtlibrarynet2\\wondersoftheancientworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ADA4C-58FA-4F43-84F7-D26625DB5172}|PacktLibraryNet2.csproj|solutionrelative:wondersoftheancientworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HeadSet.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryModern\\HeadSet.cs",
+              "RelativeDocumentMoniker": "..\\PacktLibraryModern\\HeadSet.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryModern\\HeadSet.cs",
+              "RelativeToolTip": "..\\PacktLibraryModern\\HeadSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Equality.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\Equality.cs",
+              "RelativeDocumentMoniker": "Equality.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\Equality.cs",
+              "RelativeToolTip": "Equality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Records.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\Records.cs",
+              "RelativeDocumentMoniker": "Records.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\Records.cs",
+              "RelativeToolTip": "Records.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightPatterns.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\FlightPatterns.cs",
+              "RelativeDocumentMoniker": "FlightPatterns.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\FlightPatterns.cs",
+              "RelativeToolTip": "FlightPatterns.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacktLibraryNet2.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\obj\\Debug\\netstandard2.0\\PacktLibraryNet2.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\netstandard2.0\\PacktLibraryNet2.GlobalUsings.g.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\obj\\Debug\\netstandard2.0\\PacktLibraryNet2.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\netstandard2.0\\PacktLibraryNet2.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonAutoGen.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PersonAutoGen.cs",
+              "RelativeDocumentMoniker": "PersonAutoGen.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PersonAutoGen.cs",
+              "RelativeToolTip": "PersonAutoGen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryModern\\Book.cs",
+              "RelativeDocumentMoniker": "..\\PacktLibraryModern\\Book.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryModern\\Book.cs",
+              "RelativeToolTip": "..\\PacktLibraryModern\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WondersOfTheAncientWorld.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\WondersOfTheAncientWorld.cs",
+              "RelativeDocumentMoniker": "WondersOfTheAncientWorld.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\WondersOfTheAncientWorld.cs",
+              "RelativeToolTip": "WondersOfTheAncientWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "USA.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\USA.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\USA.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\USA.cs",
+              "RelativeToolTip": "..\\PeopleApp\\USA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "France.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\France.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\France.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\France.cs",
+              "RelativeToolTip": "..\\PeopleApp\\France.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.Helpers.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\Program.Helpers.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.Helpers.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\Program.Helpers.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeopleApp.csproj",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\PeopleApp.csproj",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+              "RelativeToolTip": "..\\PeopleApp\\PeopleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T22:00:08.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:00:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacktLibraryNet2.csproj",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PacktLibraryNet2.csproj",
+              "RelativeDocumentMoniker": "PacktLibraryNet2.csproj",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PacktLibraryNet2.csproj",
+              "RelativeToolTip": "PacktLibraryNet2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T22:00:08.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

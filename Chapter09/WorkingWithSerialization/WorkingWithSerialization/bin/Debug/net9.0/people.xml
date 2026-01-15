@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person fname="Jennifer" lname="Aniston" dob="1969-02-11T00:00:00" />
+  <Person fname="Courteney" lname="Cox" dob="1964-06-15T00:00:00" />
+  <Person fname="Lisa" lname="Kudrow" dob="1963-07-30T00:00:00">
+    <Children>
+      <Person fname="Sonja" lname="Kudrow" dob="1998-05-07T00:00:00" />
+    </Children>
+  </Person>
+</ArrayOfPerson>

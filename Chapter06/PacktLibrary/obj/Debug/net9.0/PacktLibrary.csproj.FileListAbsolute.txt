@@ -1,0 +1,12 @@
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\bin\Debug\net9.0\PacktLibrary.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\bin\Debug\net9.0\PacktLibrary.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\bin\Debug\net9.0\PacktLibrary.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\refint\PacktLibrary.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\ref\PacktLibrary.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\PacktLibrary\obj\Debug\net9.0\PacktLibrary.sourcelink.json

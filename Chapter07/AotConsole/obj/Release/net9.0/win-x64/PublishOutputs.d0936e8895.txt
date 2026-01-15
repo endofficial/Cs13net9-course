@@ -1,0 +1,1 @@
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\bin\Release\net9.0\win-x64\publish\AotConsole.exe

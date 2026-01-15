@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\bin\Debug\net9.0\Argumetns.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\bin\Debug\net9.0\Argumetns.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\bin\Debug\net9.0\Argumetns.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\bin\Debug\net9.0\Argumetns.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\bin\Debug\net9.0\Argumetns.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\refint\Argumetns.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\Argumetns.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Argumetns\obj\Debug\net9.0\ref\Argumetns.dll

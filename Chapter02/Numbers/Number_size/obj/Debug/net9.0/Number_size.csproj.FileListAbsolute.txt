@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\bin\Debug\net9.0\Number_size.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\bin\Debug\net9.0\Number_size.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\bin\Debug\net9.0\Number_size.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\bin\Debug\net9.0\Number_size.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\bin\Debug\net9.0\Number_size.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\refint\Number_size.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\Number_size.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Number_size\obj\Debug\net9.0\ref\Number_size.dll

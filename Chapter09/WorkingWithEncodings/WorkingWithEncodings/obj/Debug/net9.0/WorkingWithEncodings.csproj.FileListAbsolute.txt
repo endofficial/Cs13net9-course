@@ -1,0 +1,14 @@
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\bin\Debug\net9.0\WorkingWithEncodings.exe
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\bin\Debug\net9.0\WorkingWithEncodings.deps.json
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\bin\Debug\net9.0\WorkingWithEncodings.runtimeconfig.json
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\bin\Debug\net9.0\WorkingWithEncodings.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\bin\Debug\net9.0\WorkingWithEncodings.pdb
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.AssemblyInfo.cs
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\refint\WorkingWithEncodings.dll
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.pdb
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\WorkingWithEncodings.genruntimeconfig.cache
+D:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter09\WorkingWithEncodings\WorkingWithEncodings\obj\Debug\net9.0\ref\WorkingWithEncodings.dll

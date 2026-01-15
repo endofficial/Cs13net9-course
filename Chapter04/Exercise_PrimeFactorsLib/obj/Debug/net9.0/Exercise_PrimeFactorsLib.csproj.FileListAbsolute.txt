@@ -1,0 +1,11 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\Exercise_PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\Exercise_PrimeFactorsLib.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\Exercise_PrimeFactorsLib.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\Exercise_PrimeFactorsLib.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\bin\Debug\net9.0\Exercise_PrimeFactorsLib.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\bin\Debug\net9.0\Exercise_PrimeFactorsLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\bin\Debug\net9.0\Exercise_PrimeFactorsLib.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\Exercise_PrimeFactorsLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\refint\Exercise_PrimeFactorsLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\Exercise_PrimeFactorsLib.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\Exercise_PrimeFactorsLib\obj\Debug\net9.0\ref\Exercise_PrimeFactorsLib.dll

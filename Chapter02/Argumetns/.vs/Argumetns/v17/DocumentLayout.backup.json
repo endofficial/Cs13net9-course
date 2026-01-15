@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D20867-2C04-484D-9DDD-FEFDF164F1C3}|Argumetns.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter02\\argumetns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D20867-2C04-484D-9DDD-FEFDF164F1C3}|Argumetns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D20867-2C04-484D-9DDD-FEFDF164F1C3}|Argumetns.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter02\\argumetns\\argumetns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21D20867-2C04-484D-9DDD-FEFDF164F1C3}|Argumetns.csproj|solutionrelative:argumetns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D20867-2C04-484D-9DDD-FEFDF164F1C3}|Argumetns.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter02\\argumetns\\argumetns.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{21D20867-2C04-484D-9DDD-FEFDF164F1C3}|Argumetns.csproj|solutionrelative:argumetns.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Argumetns",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\Argumetns.csproj",
+              "RelativeDocumentMoniker": "Argumetns.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\Argumetns.csproj",
+              "RelativeToolTip": "Argumetns.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T06:41:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Argumetns.csproj",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\Argumetns.csproj",
+              "RelativeDocumentMoniker": "Argumetns.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\Argumetns.csproj",
+              "RelativeToolTip": "Argumetns.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T06:37:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter02\\Argumetns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:36:12.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

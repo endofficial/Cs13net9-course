@@ -1,0 +1,6 @@
+﻿Compilazione avviata alle 19:56...
+1>------ Inizio compilazione: Progetto: SelectionStatements, Configurazione: Debug Any CPU ------
+1>Gli analizzatori verranno ignorati per velocizzare la compilazione. Per eseguire analizzatori, è possibile eseguire il comando 'Compila' o 'Ricompila'.
+1>SelectionStatements -> D:\Programmazione\C#\Esercitazioni\Chapter03\SelectionStatements\bin\Debug\net9.0\SelectionStatements.dll
+========== Compilazione: 1 completato/i, 0 non riuscito/i, 0 aggiornato/i, 0 ignorato/i ==========
+========== Compilazione completato alle 19:56 e ha richiesto 03,948 secondi ==========

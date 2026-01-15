@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\bin\Debug\net9.0\IterationsStatements.exe
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\bin\Debug\net9.0\IterationsStatements.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\bin\Debug\net9.0\IterationsStatements.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\bin\Debug\net9.0\IterationsStatements.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\bin\Debug\net9.0\IterationsStatements.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\refint\IterationsStatements.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\ref\IterationsStatements.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\IterationsStatements\obj\Debug\net9.0\IterationsStatements.sourcelink.json

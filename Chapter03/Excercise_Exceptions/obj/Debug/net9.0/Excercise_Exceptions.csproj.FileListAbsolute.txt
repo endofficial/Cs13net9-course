@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\bin\Debug\net9.0\Excercise_Exceptions.exe
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\bin\Debug\net9.0\Excercise_Exceptions.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\bin\Debug\net9.0\Excercise_Exceptions.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\bin\Debug\net9.0\Excercise_Exceptions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\bin\Debug\net9.0\Excercise_Exceptions.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\refint\Excercise_Exceptions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\Excercise_Exceptions.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_Exceptions\obj\Debug\net9.0\ref\Excercise_Exceptions.dll

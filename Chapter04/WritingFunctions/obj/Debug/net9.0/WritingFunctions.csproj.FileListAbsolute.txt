@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\bin\Debug\net9.0\WritingFunctions.exe
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\bin\Debug\net9.0\WritingFunctions.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\bin\Debug\net9.0\WritingFunctions.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\bin\Debug\net9.0\WritingFunctions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\bin\Debug\net9.0\WritingFunctions.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\refint\WritingFunctions.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\WritingFunctions.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\WritingFunctions\obj\Debug\net9.0\ref\WritingFunctions.dll

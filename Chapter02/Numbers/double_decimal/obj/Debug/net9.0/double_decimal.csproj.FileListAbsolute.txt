@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\bin\Debug\net9.0\double_decimal.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\bin\Debug\net9.0\double_decimal.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\bin\Debug\net9.0\double_decimal.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\bin\Debug\net9.0\double_decimal.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\bin\Debug\net9.0\double_decimal.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\refint\double_decimal.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\double_decimal.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\double_decimal\obj\Debug\net9.0\ref\double_decimal.dll

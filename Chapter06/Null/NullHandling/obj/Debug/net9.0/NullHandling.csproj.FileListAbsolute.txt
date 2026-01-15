@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\bin\Debug\net9.0\NullHandling.exe
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\bin\Debug\net9.0\NullHandling.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\bin\Debug\net9.0\NullHandling.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\bin\Debug\net9.0\NullHandling.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\bin\Debug\net9.0\NullHandling.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\refint\NullHandling.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\ref\NullHandling.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Null\NullHandling\obj\Debug\net9.0\NullHandling.sourcelink.json

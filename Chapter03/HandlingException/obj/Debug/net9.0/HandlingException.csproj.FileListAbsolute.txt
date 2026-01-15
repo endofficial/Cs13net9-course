@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\bin\Debug\net9.0\HandlingException.exe
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\bin\Debug\net9.0\HandlingException.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\bin\Debug\net9.0\HandlingException.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\bin\Debug\net9.0\HandlingException.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\bin\Debug\net9.0\HandlingException.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\refint\HandlingException.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\HandlingException.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\HandlingException\obj\Debug\net9.0\ref\HandlingException.dll

@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\bin\Debug\net9.0\DotNetEverywhere.exe
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\bin\Debug\net9.0\DotNetEverywhere.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\bin\Debug\net9.0\DotNetEverywhere.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\bin\Debug\net9.0\DotNetEverywhere.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\bin\Debug\net9.0\DotNetEverywhere.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\refint\DotNetEverywhere.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\DotNetEverywhere.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\obj\Debug\net9.0\ref\DotNetEverywhere.dll

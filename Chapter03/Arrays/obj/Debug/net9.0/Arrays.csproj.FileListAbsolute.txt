@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\bin\Debug\net9.0\Arrays.exe
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\bin\Debug\net9.0\Arrays.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\bin\Debug\net9.0\Arrays.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\bin\Debug\net9.0\Arrays.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Arrays\obj\Debug\net9.0\ref\Arrays.dll

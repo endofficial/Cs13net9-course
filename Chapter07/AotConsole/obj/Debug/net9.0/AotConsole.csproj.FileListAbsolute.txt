@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\bin\Debug\net9.0\AotConsole.exe
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\bin\Debug\net9.0\AotConsole.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\bin\Debug\net9.0\AotConsole.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\bin\Debug\net9.0\AotConsole.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\bin\Debug\net9.0\AotConsole.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\refint\AotConsole.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\AotConsole.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\AotConsole\obj\Debug\net9.0\ref\AotConsole.dll

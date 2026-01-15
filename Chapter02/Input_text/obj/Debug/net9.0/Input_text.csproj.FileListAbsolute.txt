@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\bin\Debug\net9.0\Input_text.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\bin\Debug\net9.0\Input_text.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\bin\Debug\net9.0\Input_text.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\bin\Debug\net9.0\Input_text.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\bin\Debug\net9.0\Input_text.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\refint\Input_text.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\Input_text.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Input_text\obj\Debug\net9.0\ref\Input_text.dll

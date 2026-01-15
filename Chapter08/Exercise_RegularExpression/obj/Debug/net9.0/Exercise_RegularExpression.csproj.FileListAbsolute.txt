@@ -1,0 +1,14 @@
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\bin\Debug\net9.0\Exercise_RegularExpression.exe
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\bin\Debug\net9.0\Exercise_RegularExpression.deps.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\bin\Debug\net9.0\Exercise_RegularExpression.runtimeconfig.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\bin\Debug\net9.0\Exercise_RegularExpression.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\bin\Debug\net9.0\Exercise_RegularExpression.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.AssemblyInfoInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.AssemblyInfo.cs
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.csproj.CoreCompileInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\refint\Exercise_RegularExpression.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\Exercise_RegularExpression.genruntimeconfig.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\Exercise_RegularExpression\obj\Debug\net9.0\ref\Exercise_RegularExpression.dll

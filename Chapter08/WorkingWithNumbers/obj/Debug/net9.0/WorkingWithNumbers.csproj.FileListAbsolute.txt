@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\bin\Debug\net9.0\WorkingWithNumbers.exe
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\bin\Debug\net9.0\WorkingWithNumbers.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\bin\Debug\net9.0\WorkingWithNumbers.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\bin\Debug\net9.0\WorkingWithNumbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\bin\Debug\net9.0\WorkingWithNumbers.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\refint\WorkingWithNumbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\ref\WorkingWithNumbers.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithNumbers\obj\Debug\net9.0\WorkingWithNumbers.sourcelink.json

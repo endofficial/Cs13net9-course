@@ -1,0 +1,11 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\bin\Debug\net9.0\CallStackExceptionHandlingLib.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\bin\Debug\net9.0\CallStackExceptionHandlingLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\bin\Debug\net9.0\CallStackExceptionHandlingLib.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\CallStackExceptionHandlingLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\refint\CallStackExceptionHandlingLib.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\CallStackExceptionHandlingLib.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\CallStackExceètionHandlingLib\obj\Debug\net9.0\ref\CallStackExceptionHandlingLib.dll

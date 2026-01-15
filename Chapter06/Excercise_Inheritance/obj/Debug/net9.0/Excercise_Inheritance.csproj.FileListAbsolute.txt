@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\bin\Debug\net9.0\Excercise_Inheritance.exe
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\bin\Debug\net9.0\Excercise_Inheritance.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\bin\Debug\net9.0\Excercise_Inheritance.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\bin\Debug\net9.0\Excercise_Inheritance.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\bin\Debug\net9.0\Excercise_Inheritance.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\refint\Excercise_Inheritance.dll
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\Excercise_Inheritance.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\obj\Debug\net9.0\ref\Excercise_Inheritance.dll

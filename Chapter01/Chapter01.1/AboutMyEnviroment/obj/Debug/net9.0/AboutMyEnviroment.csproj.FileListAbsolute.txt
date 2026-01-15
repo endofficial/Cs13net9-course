@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\bin\Debug\net9.0\AboutMyEnviroment.exe
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\bin\Debug\net9.0\AboutMyEnviroment.deps.json
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\bin\Debug\net9.0\AboutMyEnviroment.runtimeconfig.json
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\bin\Debug\net9.0\AboutMyEnviroment.dll
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\bin\Debug\net9.0\AboutMyEnviroment.pdb
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.AssemblyInfo.cs
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.dll
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\refint\AboutMyEnviroment.dll
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.pdb
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\AboutMyEnviroment.genruntimeconfig.cache
+D:\Programmazione\C#\Chapter01\Chapter01.1\AboutMyEnviroment\obj\Debug\net9.0\ref\AboutMyEnviroment.dll

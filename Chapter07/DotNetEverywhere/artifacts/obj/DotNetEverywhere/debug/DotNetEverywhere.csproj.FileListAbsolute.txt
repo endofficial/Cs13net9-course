@@ -1,0 +1,12 @@
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\bin\DotNetEverywhere\debug\DotNetEverywhere.exe
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\bin\DotNetEverywhere\debug\DotNetEverywhere.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\bin\DotNetEverywhere\debug\DotNetEverywhere.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\bin\DotNetEverywhere\debug\DotNetEverywhere.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\DotNetEverywhere.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\DotNetEverywhere.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\DotNetEverywhere.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\DotNetEverywhere.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\refint\DotNetEverywhere.dll
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\DotNetEverywhere.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter07\DotNetEverywhere\artifacts\obj\DotNetEverywhere\debug\ref\DotNetEverywhere.dll

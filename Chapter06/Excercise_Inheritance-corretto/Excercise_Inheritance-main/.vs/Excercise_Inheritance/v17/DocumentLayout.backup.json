@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Downloads\\Excercise_Inheritance-main\\Excercise_Inheritance-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EEF2FF-72C9-427B-9FAD-0436FE43FC6A}|Excercise_Inheritance.csproj|c:\\users\\andre\\downloads\\excercise_inheritance-main\\excercise_inheritance-main\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EEF2FF-72C9-427B-9FAD-0436FE43FC6A}|Excercise_Inheritance.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EEF2FF-72C9-427B-9FAD-0436FE43FC6A}|Excercise_Inheritance.csproj|c:\\users\\andre\\downloads\\excercise_inheritance-main\\excercise_inheritance-main\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EEF2FF-72C9-427B-9FAD-0436FE43FC6A}|Excercise_Inheritance.csproj|solutionrelative:interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\Excercise_Inheritance-main\\Excercise_Inheritance-main\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\Excercise_Inheritance-main\\Excercise_Inheritance-main\\Shape.cs*",
+              "RelativeToolTip": "Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:38:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\Excercise_Inheritance-main\\Excercise_Inheritance-main\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Interfaces.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\Excercise_Inheritance-main\\Excercise_Inheritance-main\\Interfaces.cs*",
+              "RelativeToolTip": "Interfaces.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:34:26.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

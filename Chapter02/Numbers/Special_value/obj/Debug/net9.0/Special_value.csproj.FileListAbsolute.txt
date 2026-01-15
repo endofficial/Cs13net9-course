@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\bin\Debug\net9.0\Special_value.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\bin\Debug\net9.0\Special_value.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\bin\Debug\net9.0\Special_value.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\bin\Debug\net9.0\Special_value.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\bin\Debug\net9.0\Special_value.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\refint\Special_value.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\Special_value.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\Numbers\Special_value\obj\Debug\net9.0\ref\Special_value.dll

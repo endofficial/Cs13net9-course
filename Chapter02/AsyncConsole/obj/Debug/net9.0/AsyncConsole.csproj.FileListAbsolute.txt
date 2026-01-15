@@ -1,0 +1,15 @@
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\bin\Debug\net9.0\AsyncConsole.exe
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\bin\Debug\net9.0\AsyncConsole.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\bin\Debug\net9.0\AsyncConsole.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\bin\Debug\net9.0\AsyncConsole.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\bin\Debug\net9.0\AsyncConsole.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.sourcelink.json
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\refint\AsyncConsole.dll
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\AsyncConsole.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter02\AsyncConsole\obj\Debug\net9.0\ref\AsyncConsole.dll

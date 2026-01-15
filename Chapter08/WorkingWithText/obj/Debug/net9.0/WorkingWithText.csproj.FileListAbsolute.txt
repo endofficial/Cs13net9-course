@@ -1,0 +1,28 @@
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.exe
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\refint\WorkingWithText.dll
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\ref\WorkingWithText.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.exe
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.deps.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.runtimeconfig.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\bin\Debug\net9.0\WorkingWithText.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.AssemblyInfoInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.AssemblyInfo.cs
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.csproj.CoreCompileInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\refint\WorkingWithText.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\WorkingWithText.genruntimeconfig.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithText\obj\Debug\net9.0\ref\WorkingWithText.dll

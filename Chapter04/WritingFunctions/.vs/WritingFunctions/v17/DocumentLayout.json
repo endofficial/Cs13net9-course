@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFFA0B4-5402-4C1E-BF7F-2ECD3BCAAFF1}|WritingFunctions.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\writingfunctions\\program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFFA0B4-5402-4C1E-BF7F-2ECD3BCAAFF1}|WritingFunctions.csproj|solutionrelative:program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFFA0B4-5402-4C1E-BF7F-2ECD3BCAAFF1}|WritingFunctions.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\writingfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFFA0B4-5402-4C1E-BF7F-2ECD3BCAAFF1}|WritingFunctions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFFA0B4-5402-4C1E-BF7F-2ECD3BCAAFF1}|WritingFunctions.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter04\\writingfunctions\\writingfunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DFFA0B4-5402-4C1E-BF7F-2ECD3BCAAFF1}|WritingFunctions.csproj|solutionrelative:writingfunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.Functions.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\Program.Functions.cs",
+              "RelativeDocumentMoniker": "Program.Functions.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\Program.Functions.cs",
+              "RelativeToolTip": "Program.Functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:00:01.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WritingFunctions.csproj",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+              "RelativeDocumentMoniker": "WritingFunctions.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+              "RelativeToolTip": "WritingFunctions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T20:58:31.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\WritingFunctions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:58:24.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

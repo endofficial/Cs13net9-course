@@ -1,0 +1,14 @@
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\bin\Debug\net9.0\WorkingWithRegilarExpressions.exe
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\bin\Debug\net9.0\WorkingWithRegilarExpressions.deps.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\bin\Debug\net9.0\WorkingWithRegilarExpressions.runtimeconfig.json
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\bin\Debug\net9.0\WorkingWithRegilarExpressions.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\bin\Debug\net9.0\WorkingWithRegilarExpressions.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.AssemblyInfoInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.AssemblyInfo.cs
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.csproj.CoreCompileInputs.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\refint\WorkingWithRegilarExpressions.dll
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.pdb
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\WorkingWithRegilarExpressions.genruntimeconfig.cache
+E:\MATEBOOK D15\Programmazione\C#\Esercitazioni\Chapter08\WorkingWithRegilarExpressions\obj\Debug\net9.0\ref\WorkingWithRegilarExpressions.dll

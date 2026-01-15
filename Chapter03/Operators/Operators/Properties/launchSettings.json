@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Operators": {
+      "commandName": "Project",
+      "commandLineArgs": "green black"
+    }
+  }
+}

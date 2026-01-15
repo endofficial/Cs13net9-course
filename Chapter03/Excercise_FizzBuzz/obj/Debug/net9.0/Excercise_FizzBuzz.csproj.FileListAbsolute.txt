@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\bin\Debug\net9.0\Excercise_FizzBuzz.exe
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\bin\Debug\net9.0\Excercise_FizzBuzz.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\bin\Debug\net9.0\Excercise_FizzBuzz.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\bin\Debug\net9.0\Excercise_FizzBuzz.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\bin\Debug\net9.0\Excercise_FizzBuzz.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\refint\Excercise_FizzBuzz.dll
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\Excercise_FizzBuzz.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter03\Excercise_FizzBuzz\obj\Debug\net9.0\ref\Excercise_FizzBuzz.dll

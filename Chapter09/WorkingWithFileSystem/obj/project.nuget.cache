@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0OLvAeYj9M=",
+  "success": true,
+  "projectFilePath": "E:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Chapter09\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512"
+  ],
+  "logs": []
+}

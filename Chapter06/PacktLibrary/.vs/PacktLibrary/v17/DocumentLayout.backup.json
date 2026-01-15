@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFEB98A-2319-4790-B935-19094AA6B32F}|..\\PeopleApp\\PeopleApp.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFEB98A-2319-4790-B935-19094AA6B32F}|..\\PeopleApp\\PeopleApp.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\peopleapp\\program.eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFEB98A-2319-4790-B935-19094AA6B32F}|..\\PeopleApp\\PeopleApp.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\peopleapp\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFEB98A-2319-4790-B935-19094AA6B32F}|..\\PeopleApp\\PeopleApp.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\personexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:personexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\displacementvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:displacementvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|d:\\programmazione\\c#\\esercitazioni\\chapter06\\packtlibrary\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D219EF76-C086-490F-847C-4A7FBFB71E02}|PacktLibrary.csproj|solutionrelative:packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:23:04.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DisplacementVector.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\DisplacementVector.cs",
+              "RelativeDocumentMoniker": "DisplacementVector.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\DisplacementVector.cs",
+              "RelativeToolTip": "DisplacementVector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:11:57.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mutability.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\Mutability.cs",
+              "RelativeDocumentMoniker": "Mutability.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\Mutability.cs",
+              "RelativeToolTip": "Mutability.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:41:43.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "StringExtensions.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\StringExtensions.cs",
+              "RelativeToolTip": "StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:44:10.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonException.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\PersonException.cs",
+              "RelativeDocumentMoniker": "PersonException.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\PersonException.cs",
+              "RelativeToolTip": "PersonException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:36:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:35:19.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DvdPlayer.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\DvdPlayer.cs",
+              "RelativeDocumentMoniker": "DvdPlayer.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\DvdPlayer.cs",
+              "RelativeToolTip": "DvdPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:59:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\IPlayable.cs",
+              "RelativeDocumentMoniker": "IPlayable.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\IPlayable.cs",
+              "RelativeToolTip": "IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:58:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonComparer.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\PersonComparer.cs",
+              "RelativeDocumentMoniker": "PersonComparer.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\PersonComparer.cs",
+              "RelativeToolTip": "PersonComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:11:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.Helpers.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\Program.Helpers.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.Helpers.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\Program.Helpers.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:49:11.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.EventHandlers.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\Program.EventHandlers.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.EventHandlers.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\Program.EventHandlers.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.EventHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:34:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacktLibrary.csproj",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+              "RelativeDocumentMoniker": "PacktLibrary.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+              "RelativeToolTip": "PacktLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T17:35:03.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeopleApp.csproj",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\PeopleApp.csproj",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+              "RelativeToolTip": "..\\PeopleApp\\PeopleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T17:23:50.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwHwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:19:29.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

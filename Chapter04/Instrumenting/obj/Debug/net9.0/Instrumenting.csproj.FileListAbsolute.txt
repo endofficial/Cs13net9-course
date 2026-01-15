@@ -1,0 +1,14 @@
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\bin\Debug\net9.0\Instrumenting.exe
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\bin\Debug\net9.0\Instrumenting.deps.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\bin\Debug\net9.0\Instrumenting.runtimeconfig.json
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\bin\Debug\net9.0\Instrumenting.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\bin\Debug\net9.0\Instrumenting.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\refint\Instrumenting.dll
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.pdb
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\Instrumenting.genruntimeconfig.cache
+D:\Programmazione\C#\Esercitazioni\Chapter04\Instrumenting\obj\Debug\net9.0\ref\Instrumenting.dll

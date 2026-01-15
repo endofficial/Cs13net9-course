@@ -1,0 +1,4 @@
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\PeopleApp\obj\Debug\net9.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\PeopleApp\obj\Debug\net9.0\PeopleApp.AssemblyInfoInputs.cache
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\PeopleApp\obj\Debug\net9.0\PeopleApp.AssemblyInfo.cs
+D:\Programmazione\C#\Esercitazioni\Chapter06\Excercise_Inheritance\PeopleApp\obj\Debug\net9.0\PeopleApp.csproj.CoreCompileInputs.cache

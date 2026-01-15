@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhYED+xaC20=",
+  "success": false,
+  "projectFilePath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PacktLibraryNet2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Non è possibile caricare l'indice del servizio per l'origine https://api.nuget.org/v3/index.json.\r\n  Si è verificato un errore durante l'invio della richiesta.\r\n  Impossibile risolvere il nome remoto.: 'api.nuget.org'",
+      "projectPath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PacktLibraryNet2.csproj",
+      "filePath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter05\\PacktLibraryNet2\\PacktLibraryNet2.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
