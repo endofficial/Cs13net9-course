@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations; // To use [Required]
 
 namespace Northwind.EntityModels;
 
-internal class Product
+public class Product
 {
     public int ProductId { get; set; } // Primary key
 
