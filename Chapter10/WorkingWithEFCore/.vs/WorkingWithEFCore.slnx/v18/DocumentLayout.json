@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -17,12 +21,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -48,8 +48,25 @@
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:05:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WorkingWithEFCore.csproj",
               "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
               "RelativeDocumentMoniker": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
