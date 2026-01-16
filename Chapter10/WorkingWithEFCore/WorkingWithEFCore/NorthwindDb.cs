@@ -27,5 +27,14 @@ public class NorthwindDb : DbContext
             .Property(category => category.CategoryName)
             .IsRequired() // Not null
             .HasMaxLength(15); // Max length of 15 characters
+
+        // some SQLite-specific configuration
+        if (Database.ProviderName?.Contains("Sqlite") ?? false)
+        {
+            // To fix the lack of decimal support in SQLite
+            modelBuilder.Entity<Product>()
+                .Property(product => product.Cost)
+                .HasConversion<double>();
+        }
     }
 }
