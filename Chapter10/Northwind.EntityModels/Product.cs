@@ -12,7 +12,7 @@ public class Product
     public string ProductName { get; set; } = null!; // Not null
 
     // Property name is different from the column name
-    [Column("UnitePrice", TypeName = "money")]
+    [Column("UnitPrice", TypeName = "money")]
     public decimal? Cost { get; set; }
 
     [Column("UnitsInStock")]

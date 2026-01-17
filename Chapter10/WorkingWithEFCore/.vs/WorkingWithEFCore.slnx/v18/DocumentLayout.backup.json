@@ -3,6 +3,29 @@
   "WorkspaceRootPath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD87E0B-FF39-396D-A807-B206C3665DB5}|..\\Northwind.EntityModels\\Northwind.EntityModels.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\northwind.entitymodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\autogenmodels\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\autogenmodels\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\autogenmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\autogenmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\autogenmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\autogenmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,14 +38,7 @@
       "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD87E0B-FF39-396D-A807-B206C3665DB5}|..\\Northwind.EntityModels\\Northwind.EntityModels.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\northwind.entitymodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BD87E0B-FF39-396D-A807-B206C3665DB5}|..\\Northwind.EntityModels\\Northwind.EntityModels.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\northwind.entitymodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,86 +48,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\Category.cs",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\AutoGenModels\\Category.cs",
-              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\Category.cs",
-              "RelativeToolTip": "WorkingWithEFCore\\AutoGenModels\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T23:03:51.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkingWithEFCore",
-              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "RelativeToolTip": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T22:14:19.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.cs",
-              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
-              "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T22:10:19.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NorthwindDb.cs",
-              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\NorthwindDb.cs",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\NorthwindDb.cs",
-              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\NorthwindDb.cs",
-              "RelativeToolTip": "WorkingWithEFCore\\NorthwindDb.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T22:00:13.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.EntityModels\\Product.cs",
-              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Product.cs",
-              "RelativeToolTip": "..\\Northwind.EntityModels\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T21:43:14.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Category.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.EntityModels\\Category.cs",
-              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Category.cs",
-              "RelativeToolTip": "..\\Northwind.EntityModels\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T21:26:32.368Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -135,6 +73,131 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.Queries.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Queries.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Queries.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Queries.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.Queries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:58:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.Helpers.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Helpers.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Helpers.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Helpers.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.Helpers.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:47:06.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthwindDb.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\NorthwindDb.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\AutoGenModels\\NorthwindDb.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\NorthwindDb.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\AutoGenModels\\NorthwindDb.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:04:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\Product.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\AutoGenModels\\Product.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\Product.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\AutoGenModels\\Product.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:03:55.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\Category.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\AutoGenModels\\Category.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\AutoGenModels\\Category.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\AutoGenModels\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T23:03:51.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkingWithEFCore.csproj",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "RelativeToolTip": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T22:14:19.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:10:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NorthwindDb.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\NorthwindDb.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\NorthwindDb.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\NorthwindDb.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\NorthwindDb.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:00:13.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Northwind.EntityModels\\Product.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Product.cs",
+              "RelativeToolTip": "..\\Northwind.EntityModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:43:14.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Northwind.EntityModels\\Category.cs",
+              "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\Northwind.EntityModels\\Category.cs",
+              "RelativeToolTip": "..\\Northwind.EntityModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:26:32.368Z",
+              "EditorCaption": ""
             }
           ]
         }
