@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BD87E0B-FF39-396D-A807-B206C3665DB5}|..\\Northwind.EntityModels\\Northwind.EntityModels.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\northwind.entitymodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -48,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.Queries.cs",
               "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Queries.cs",
               "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Queries.cs",
               "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Queries.cs",
               "RelativeToolTip": "WorkingWithEFCore\\Program.Queries.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAmwEgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwGwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T14:58:44.93Z",
               "EditorCaption": ""
@@ -151,13 +151,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
               "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.cs",
               "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.cs",
               "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T22:10:19.286Z",
               "EditorCaption": ""
