@@ -35,4 +35,44 @@ partial class Program
             WriteLine($"{c.CategoryName} has {c.Products.Count} products.");
         }
     }
+
+    private static void FilteredIncludes()
+    {
+        using NorthwindDb db = new();
+
+        SectionTitle("Products with a minimum number of units in stock");
+
+        string? input;
+        int stock;
+
+        do
+        {
+            Write("Enter a minimum for units in stock: ");
+            input = ReadLine();
+        }
+        while (!int.TryParse(input, out stock));
+
+        // Include only products that have at least the specified
+        IQueryable<Category>? categories = db.Categories?
+            .Include(c => c.Products.Where(p => p.Stock >= stock));
+
+        if (categories is null || !categories.Any())
+        {
+            Fail("No categories found.");
+            return;
+        }
+
+        foreach (Category c in categories)
+        {
+            WriteLine("" +
+                "{0} has {1} products with a minimum {2} units in stock.", 
+                arg0: c.CategoryName, arg1: c.Products.Count, arg2: stock);
+
+            foreach (Product p in c.Products)
+            {
+                WriteLine("{0} has {1} units in stock.", 
+                    arg0: p.ProductName, arg1: p.Stock);
+            }
+        }
+    }
 }
