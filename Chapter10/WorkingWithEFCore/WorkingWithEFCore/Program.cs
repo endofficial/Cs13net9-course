@@ -5,3 +5,4 @@ WriteLine($"Provider: {db.Database.ProviderName}"); // Show the database provide
 
 ConfigureConsoole();
 QueryingCategories();
+FilteredIncludes();

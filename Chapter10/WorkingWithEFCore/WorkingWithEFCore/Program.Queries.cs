@@ -40,7 +40,7 @@ partial class Program
     {
         using NorthwindDb db = new();
 
-        SectionTitle("Products with a minimum number of units in stock");
+        SectionTitle("\nProducts with a minimum number of units in stock\n");
 
         string? input;
         int stock;
@@ -65,12 +65,12 @@ partial class Program
         foreach (Category c in categories)
         {
             WriteLine("" +
-                "{0} has {1} products with a minimum {2} units in stock.", 
+                "\n{0} has {1} products with a minimum {2} units in stock.", 
                 arg0: c.CategoryName, arg1: c.Products.Count, arg2: stock);
 
             foreach (Product p in c.Products)
             {
-                WriteLine("{0} has {1} units in stock.", 
+                WriteLine("\n{0} has {1} units in stock.", 
                     arg0: p.ProductName, arg1: p.Stock);
             }
         }
