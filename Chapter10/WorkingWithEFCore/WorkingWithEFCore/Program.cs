@@ -7,3 +7,4 @@ ConfigureConsoole();
 QueryingCategories();
 FilteredIncludes();
 QueryingProducts();
+GettingOneProduct();
