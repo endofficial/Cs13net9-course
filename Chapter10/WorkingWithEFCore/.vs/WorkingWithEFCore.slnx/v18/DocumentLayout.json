@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkingWithEFCore\\Program.Queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -14,8 +14,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkingWithEFCore\\Program.Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\matebook d15\\programmazione\\c#\\esercitazioni\\cs13net9-course\\chapter10\\workingwithefcore\\workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D6593-C595-C08D-74C6-A7E4F726869A}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,8 +59,10 @@
               "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Queries.cs",
               "ToolTip": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore\\Program.Queries.cs",
               "RelativeToolTip": "WorkingWithEFCore\\Program.Queries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T11:07:29.977Z"
+              "WhenOpened": "2026-01-20T11:07:29.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,10 +97,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-14T23:24:37.181Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

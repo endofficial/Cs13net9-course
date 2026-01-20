@@ -182,7 +182,7 @@ partial class Program
 
         SectionTitle("Get product using SQL");
 
-        int? rowCount = db.Products.Count();
+        int? rowCount = db.Products?.Count();
 
         if (rowCount is null)
         {
