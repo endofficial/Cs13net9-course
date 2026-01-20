@@ -93,6 +93,7 @@ partial class Program
         while (!decimal.TryParse(input, out price));
 
         IQueryable<Product>? products = db.Products?
+            .TagWith("Products filtered by price and sorted")
             .Where(product => product.Cost > price) // Only products that cost more than price
             .OrderByDescending(product => product.Cost); // Highest price first
 
@@ -101,6 +102,10 @@ partial class Program
             Fail("No products found.");
             return;
         }
+
+        // Calling ToQueryString does not execute against the database.
+        // LINQ to Entities just converts the LINQ query to an SQL statement.
+        Info($"ToQueryString: {products.ToQueryString()}");
 
         foreach (Product p in products)
         {
