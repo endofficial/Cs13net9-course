@@ -175,4 +175,32 @@ partial class Program
             WriteLine("{0} has {1} units in stock. Discontinued: {2}", p.ProductName, p.Stock, p.Discontinued);
         }
     }
+
+    private static void GetProductUsingSql()
+    {
+        using NorthwindDb db = new();
+
+        SectionTitle("Get product using SQL");
+
+        int? rowCount = db.Products.Count();
+
+        if (rowCount is null)
+        {
+            Fail("Products table is empty.");
+            return;
+        }
+
+        int productId = 1;
+
+        Product? p = db.Products?.FromSql(
+            $"SELECT * FROM Products WHERE ProductId = {productId}").FirstOrDefault();
+
+        if (p is null)
+        {
+            Fail("Product not found.");
+            return;
+        }
+
+        WriteLine($"Product: {p.ProductId} - {p.ProductName}");
+    }
 }

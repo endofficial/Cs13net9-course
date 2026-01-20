@@ -7,6 +7,6 @@ WriteLine($"Provider: {db.Database.ProviderName}"); // Show the database provide
 QueryingCategories();
 FilteredIncludes();
 QueryingProducts();
-GettingOneProduct();*/
-
-QueryingWithLike();
+GettingOneProduct();
+QueryingWithLike();*/
+GetProductUsingSql();

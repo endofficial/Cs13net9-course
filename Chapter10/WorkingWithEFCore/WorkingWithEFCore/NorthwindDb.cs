@@ -48,5 +48,8 @@ public class NorthwindDb : DbContext
                 .Property(product => product.Cost)
                 .HasConversion<double>();
         }
+
+        modelBuilder.Entity<Product>()
+            .HasQueryFilter(p => !p.Discontinued);
     }
 }
