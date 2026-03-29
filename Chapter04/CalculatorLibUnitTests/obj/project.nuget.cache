@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tK+689UaPvc=",
+  "dgSpecHash": "37fobSApjtM=",
   "success": true,
-  "projectFilePath": "D:\\Programmazione\\C#\\Esercitazioni\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+  "projectFilePath": "D:\\MATEBOOK D15\\Programmazione\\C#\\Esercitazioni\\Cs13net9-course\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
