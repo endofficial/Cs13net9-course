@@ -1,0 +1,3 @@
+﻿ConfigureConsole();
+//FilterAndSort();
+JoinCategoriesAndProducts();
