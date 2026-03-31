@@ -43,15 +43,46 @@ partial class Program
         using NorthwindDb db = new(); // Create a new instance of the Northwind database context
 
         var queryJoin = db.Categories.Join(
-            inner: db.Products,
-            outerKeySelector: category => category.CategoryId,
-            innerKeySelector: product => product.CategoryId,
+            inner: db.Products, // Join the Categories DbSet with the Products DbSet
+            outerKeySelector: category => category.CategoryId, // Specify the key selector for the outer sequence (categories)
+            innerKeySelector: product => product.CategoryId, // Specify the key selector for the inner sequence (products)
             resultSelector: (c, p) =>
-                new { c.CategoryName, p.ProductName, p.ProductId });
+                new { c.CategoryName, p.ProductName, p.ProductId }) // Specify the result selector to create an anonymous type with the category name, product name, and product ID
+        .OrderBy(cp => cp.CategoryName); // Order the results by category name
 
         foreach (var p in queryJoin)
         {
             WriteLine($"{p.ProductId}: {p.ProductName} in {p.CategoryName}.");
+        }
+    }
+
+    private static void GroupJoinCategoriesAndProducts()
+    {
+        SectionTitle("Group join categories and products");
+
+        using NorthwindDb db = new(); // Create a new instance of the Northwind database context
+
+        // AsNumerable() is used to switch from IQueryable to IEnumerable,
+        // which allows the GroupJoin to be performed in memory rather than in the database.
+        // This is necessary because GroupJoin does not have a direct translation to SQL.
+        var queryGroup = db.Categories.AsEnumerable().GroupJoin(
+            inner: db.Products,
+            outerKeySelector: category => category.CategoryId,
+            innerKeySelector: product => product.CategoryId,
+            resultSelector: (c, matchingProducts) => new
+            {
+                c.CategoryName, // The name of the category
+                Products = matchingProducts.OrderBy(p => p.ProductName) // Get all products that match the category and order them by product name 
+            });
+
+        foreach (var c in queryGroup)
+        {
+            WriteLine($"\n{c.CategoryName} has {c.Products.Count()} products.");
+
+            foreach (var p in c.Products)
+            {
+                WriteLine($" {p.ProductName}");
+            }
         }
     }
 }
