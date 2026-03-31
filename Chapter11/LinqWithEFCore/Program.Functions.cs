@@ -85,4 +85,45 @@ partial class Program
             }
         }
     }
+
+    private static void ProductsLookup()
+    {
+        SectionTitle("Products lookup");
+
+        using NorthwindDb db = new();
+
+        var productQuery = db.Categories.Join(
+            inner: db.Products,
+            outerKeySelector: category => category.CategoryId,
+            innerKeySelector: product => product.CategoryId,
+            resultSelector: (c, p) => new { c.CategoryName, Product = p }); // Product = p because we want to create an anonymous type that includes the category name and the product object itself
+
+        // ToLookup creates a lookup (a collection of keys and their associated values) from the productQuery.
+        ILookup<string, Product> productLookup = productQuery.ToLookup(
+            keySelector: cp => cp.CategoryName, // keySelector specifies that the keys in the lookup should be the category names
+            elementSelector: cp => cp.Product); // elementSelector specifies that the elements in the lookup should be the Product objects
+
+        // IGrouping<string, Product> represents a group of products that share the same category name (the key of the lookup).
+        foreach (IGrouping<string, Product> group in productLookup)
+        {
+            WriteLine($"{group.Key} has {group.Count()} products.");
+
+            foreach (Product p in group)
+            {
+                WriteLine($"    {p.ProductName}");
+            }
+        }
+
+        Write("Enter a category name: ");
+        string categoryName = ReadLine()!;
+        WriteLine();
+        WriteLine($"Products in {categoryName}:");
+
+        IEnumerable<Product> productsInCategory = productLookup[categoryName]; // Retrieve the products for the specified category name from the lookup
+
+        foreach (Product p in productsInCategory) 
+        {
+            WriteLine($"    {p.ProductName}");
+        }
+    }
 }
