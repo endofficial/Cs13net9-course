@@ -126,4 +126,60 @@ partial class Program
             WriteLine($"    {p.ProductName}");
         }
     }
+
+    private static void AggregateProducts()
+    {
+        SectionTitle ("Aggregate products");
+
+        using NorthwindDb db = new();
+
+        db.Database.CanConnect(); // Triggers the OnConfiguring method without actually connecting to the database, which allows us to see the generated SQL for the aggregate functions
+
+        // returns false if the Products DbSet is empty, otherwise returns true
+        if (db.Products.TryGetNonEnumeratedCount(out int countDbSet))
+        {
+            WriteLine($"{"Product count from DbSet:", -25} {countDbSet, 10}"); // TryGetNonEnumeratedCount is used to get the count of products in the DbSet without enumerating it, which can be more efficient than using Count() if the DbSet is large
+        }
+        else
+        {
+            WriteLine("The Products DbSet is empty.");
+        }
+
+        // create a list of products in memory to demonstrate the difference between TryGetNonEnumeratedCount and Count()
+        List<Product> products = db.Products.ToList();
+
+        if (products.TryGetNonEnumeratedCount(out int countList))
+        {
+            WriteLine($"{"Product count from list:",-25} {countList,10}");
+        }
+        else
+        {
+            WriteLine("The products list is empty.");
+        }
+
+        WriteLine($"{"Product count:",-25} {db.Products.Count(),10}");
+
+        // Count the number of products
+        WriteLine($"{"Discontinued product count:",-27} {db.Products
+          .Count(product => product.Discontinued),8}");
+
+        // Find the maximum unit price among the products
+        WriteLine($"{"Highest product price:",-25} {db.Products
+          .Max(p => p.UnitPrice),10:$#,##0.00}");
+
+        // .Sum calculates the total sum in the UnitsInStock column
+        WriteLine($"{"Sum of units in stock:",-25} {db.Products
+          .Sum(p => p.UnitsInStock),10:N0}");
+
+        WriteLine($"{"Sum of units on order:",-25} {db.Products
+          .Sum(p => p.UnitsOnOrder),10:N0}");
+
+        // .Average calculates the average unit price of the products
+        WriteLine($"{"Average unit price:",-25} {db.Products
+          .Average(p => p.UnitPrice),10:$#,##0.00}");
+
+        WriteLine($"{"Value of units in stock:",-25} {db.Products
+          .Sum(p => p.UnitPrice * p.UnitsInStock),10:$#,##0.00}");
+    }
 }
+

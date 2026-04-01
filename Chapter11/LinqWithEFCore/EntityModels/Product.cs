@@ -19,5 +19,11 @@ public class Product
 
     [Column(TypeName = "money")]
     public decimal? UnitPrice { get; set; }
+    public short? UnitsInStock { get; set; }
+    public short? UnitsOnOrder { get; set; }
+    public short? ReorderLevel { get; set; }
+    public bool Discontinued { get; set; }
+
+
 
 }
