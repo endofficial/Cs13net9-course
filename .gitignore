@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Chapter11/Estezione capitolo/ch11-aggregating.md
+/Chapter11/Estezione capitolo/ch11-custom-linq-methods.md
+/Chapter11/Estezione capitolo/ch11-linq-methods.md
+/Chapter11/Estezione capitolo/ch11-linq-to-xml.md
+/Chapter11/Estezione capitolo/ch11-plinq.md
