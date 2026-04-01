@@ -181,5 +181,75 @@ partial class Program
         WriteLine($"{"Value of units in stock:",-25} {db.Products
           .Sum(p => p.UnitPrice * p.UnitsInStock),10:$#,##0.00}");
     }
+
+    // This method is used to output a table of products with their
+    // ID, name, unit price, and discontinued status. It also includes pagination information at the bottom of the table.
+    private static void OutputTableOfProducts(Product[] products, int currentPage, int totalPages)
+    {
+        string line = new('-', count: 73);
+        string lineHalf = new('-', count: 30);
+
+        WriteLine(line);
+        WriteLine("{0,4} {1, -40} {2, 12} {3,-15}", 
+            "ID", "Product Name", "Unite Price", "Discontinued");
+        WriteLine(line);
+
+        foreach (Product p in products)
+        {
+            WriteLine("{0,4} {1,-40} {2,12:C} {3,-15}", 
+                p.ProductId, p.ProductName, p.UnitPrice, p.Discontinued); 
+        }
+        WriteLine("{0} Page {1} of {2} {3}",
+            lineHalf, currentPage + 1, totalPages + 1, lineHalf);
+    }
+
+    private static void OutputPageOfProducts(IQueryable<Product> products, int pageSize, int currentPage, int totalPages)
+    {
+        // We must order data before skipping and taking,
+        // to ensure the data is not randomly sorted in each page.
+        // E' importante perché se non si ordina si potrebbero ottenere dati diversi in ogni pagina.
+        // Se ad esempio voglio andare alla pagina 3 e vedere solo 5 elementi ogni pagina, il pageSize è 5 e il currentPage
+        // è 2 (perché si parte da 0), quindi si salta i primi 10 elementi e si prendono i successivi 5. Se non si ordina,
+        // i primi 10 elementi potrebbero essere diversi ogni volta che si esegue la query, quindi si potrebbero vedere dati
+        // diversi in ogni pagina.
+        var pagingQuery = products.OrderBy(p => p.ProductId)
+            .Skip(currentPage * pageSize).Take(pageSize);
+
+        Clear();
+
+        SectionTitle(pagingQuery.ToQueryString());
+
+        OutputTableOfProducts(pagingQuery.ToArray(), currentPage, totalPages);
+    }
+
+    // method to loop while the user presses the left or right arrow keys to navigate through the pages of products
+    private static void PagingProducts()
+    {
+        SectionTitle("Paging products");
+
+        using NorthwindDb db = new();
+
+        int pageSize = 10; // Number of products to display per page
+        int currentPage = 0;
+        int productCount = db.Products.Count(); // Get the total count of products in the database
+        int totalPages = productCount / pageSize; // Calculate the total number of pages based on the product count and page size
+
+        while (true)
+        {
+            OutputPageOfProducts(db.Products, pageSize, currentPage, totalPages);
+
+            Write("Press <- to page back, press -> to page forward, any key to exit.");
+            ConsoleKey key = ReadKey().Key;
+
+            if (key == ConsoleKey.LeftArrow)
+                currentPage = currentPage == 0 ? totalPages : currentPage - 1; // If the left arrow key is pressed, decrement the current page, but if the current page is already 0, wrap around to the last page
+            else if (key == ConsoleKey.RightArrow)
+                currentPage = currentPage == totalPages ? 0 : currentPage + 1; // If the right arrow key is pressed, increment the current page, but if the current page is already the last page, wrap around to the first page
+            else
+                break;
+
+            WriteLine();
+        }
+    }
 }
 
