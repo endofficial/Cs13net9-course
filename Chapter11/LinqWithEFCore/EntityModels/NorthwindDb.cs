@@ -16,7 +16,7 @@ public class  NorthwindDb : DbContext
 
         if (dir.EndsWith("net9.0"))
         {
-            path = Path.Combine("..", "..", "..", database);
+            path = Path.Combine("..", "..", "..", database); 
         }
         else
         {

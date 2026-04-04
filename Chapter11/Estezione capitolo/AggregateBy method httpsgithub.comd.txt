@@ -1,0 +1,3 @@
+AggregateBy method: https://github.com/dotnet/runtime/issues/91533
+CountBy: https://github.com/dotnet/runtime/issues/77716
+Index: https://github.com/dotnet/runtime/issues/95563

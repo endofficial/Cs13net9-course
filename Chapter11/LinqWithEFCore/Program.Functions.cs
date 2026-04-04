@@ -1,5 +1,8 @@
 ﻿using Northwind.EntityModels;
 using Microsoft.EntityFrameworkCore;
+using System.Xml.Linq;
+using System.Xml;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 partial class Program
 {
@@ -11,8 +14,10 @@ partial class Program
 
         DbSet<Product> allProducts = db.Products; // Get the DbSet of products from the database context
 
+        IQueryable<Product> processProducts = allProducts.ProcessSequence();
+
         IQueryable<Product> filterdProducts =
-            allProducts.Where(product => product.UnitPrice < 10M); // Filter the products to include only those with a unit price less than 10
+            processProducts.Where(product => product.UnitPrice < 10M); // Filter the products to include only those with a unit price less than 10
 
         IOrderedQueryable<Product> sortedProducts =
             filterdProducts.OrderByDescending(product => product.UnitPrice); // Sort the filtered products by unit price in ascending order
@@ -249,6 +254,75 @@ partial class Program
                 break;
 
             WriteLine();
+        }
+    }
+
+    private static void OutputProductAsXml()
+    {
+        SectionTitle("Output product as XML");
+
+        using (NorthwindDb db = new())
+        {
+            Product[] productsArray = db.Products.ToArray();
+
+            // Create an XML document with a root element "products" and child elements "product" for each product in the productsArray.
+            // Each "product" element has attributes for the product ID and unit price, and a child element for the product name.
+            XElement xml = new("products",
+                from p in productsArray
+                select new XElement("product",
+                new XAttribute("id", p.ProductId),
+                new XAttribute("price", p.UnitPrice ?? 0),
+                new XElement("name", p.ProductName)));
+
+            WriteLine(xml.ToString());
+        }
+    }
+
+    private static void ProcessSettings()
+    {
+        string path = Path.Combine(
+            Environment.CurrentDirectory, "settings.xml");
+
+        WriteLine($"Settings file path: {path}");
+        XDocument doc = XDocument.Load(path); // Load the XML document from the specified path
+
+        var appSettings = doc.Descendants("appSettings")
+            .Descendants("add") // Get all "add" elements that are descendants of "appSettings"
+            .Select(node => new
+            {
+                Key = node.Attribute("key")?.Value, // Get the value of the "key" attribute
+                Value = node.Attribute("value")?.Value
+            }).ToArray();
+
+        foreach (var item in appSettings)
+        {
+            WriteLine($"Key: {item.Key}, Value: {item.Value}");
+        }
+    }
+
+    private static void CustomExtensionsMethods()
+    {
+        SectionTitle("Custom aggregate extension methods");
+
+        using (NorthwindDb db = new())
+        {
+            WriteLine("{0,-25} {1,10:N0}",
+                "Mean units in stock:", db.Products.Average(p => p.UnitsInStock));
+
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                "Mean unit price:", db.Products.Average(p => p.UnitPrice));
+
+            WriteLine("{0,-25} {1,10:N0}",
+                "Mean units in stock:", db.Products.Median(p => p.UnitsInStock));
+
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                "Mean unit price:", db.Products.Median(p => p.UnitPrice));
+
+            WriteLine("{0,-25} {1,10:N0}",
+                "Mean units in stock:", db.Products.Mode(p => p.UnitsInStock));
+
+            WriteLine("{0,-25} {1,10:$#,##0.00}",
+                "Mean unit price:", db.Products.Mode(p => p.UnitPrice));
         }
     }
 }

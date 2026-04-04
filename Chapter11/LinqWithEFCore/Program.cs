@@ -4,4 +4,7 @@
 //GroupJoinCategoriesAndProducts();
 //ProductsLookup();
 //AggregateProducts();
-PagingProducts();
+//PagingProducts();
+//OutputProductAsXml();
+//ProcessSettings();
+CustomExtensionsMethods();
