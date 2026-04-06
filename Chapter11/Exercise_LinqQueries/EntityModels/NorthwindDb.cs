@@ -3,9 +3,9 @@ using Microsoft.Data.SqlClient;
 
 namespace Northwind.EntityModels;
 
-public class  Northwind : DbContext
+public class  NorthwindDb : DbContext
 {
-    public DbSet<Order> Orders { get; set; }
+    public DbSet<Customer> Customers { get; set; }
 
     // The connection string should be stored securely, e.g., in a configuration file or environment variable.
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -24,6 +24,7 @@ public class  NorthwindDb : DbContext
         }
 
         // convert to absolute path
+        // la conversione serve per evitare problemi di path relativi a dove viene eseguito il programma
         path = Path.GetFullPath(path);
         WriteLine($"Database path: {path}");
 
@@ -36,6 +37,7 @@ public class  NorthwindDb : DbContext
         optionsBuilder.UseSqlite($"Data source={path}");
     }
 
+    // SQLite does not support the 'money' data type, so we need to convert it to a compatible type (double) when using SQLite as the database provider.
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         if (Database.ProviderName is not null && Database.ProviderName.Contains("Sqlite"))

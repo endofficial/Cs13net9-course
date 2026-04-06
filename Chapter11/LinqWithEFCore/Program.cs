@@ -1,10 +1,10 @@
 ﻿ConfigureConsole();
 //FilterAndSort();
 //JoinCategoriesAndProducts();
-//GroupJoinCategoriesAndProducts();
+GroupJoinCategoriesAndProducts();
 //ProductsLookup();
 //AggregateProducts();
 //PagingProducts();
 //OutputProductAsXml();
 //ProcessSettings();
-CustomExtensionsMethods();
+//CustomExtensionsMethods();
